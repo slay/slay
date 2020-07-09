@@ -5,7 +5,7 @@ At the moment I'm a founder and CEO of [Giggl](https://giggl.app), a free virtua
 
 I've been a developer since I was 11 years old, primarily assisting with backend API's and databases. I now have my own company, and consult others.
 
-## Social
+## Me
 
 ⚡ [Portfolio](https://slayter.dev)
 
