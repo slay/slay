@@ -1,7 +1,5 @@
-
-
 # Hey there 👋
-My name is Oli. I'm a Full Stack Developer residing in London and I primarily work with NodeJs, Elixir and Go. 
+My name is Oli. I'm a Full Stack Developer residing in London and I primarily work with JS, Elixir and Go. 
 
 At the moment I'm a founder and CEO of [Giggl](https://giggl.app), a free virtual browser, and a developer for [AMNotify](https://amnotify.com) and [HyperRaffleBot](https://hyperrafflebot.io). 
 
