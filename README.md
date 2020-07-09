@@ -10,9 +10,6 @@ I've been a developer since I was 11 years old, primarily assisting with backend
 Me:
 
 ⚡ [Portfolio](https://slayter.dev)
-
 🐦 [Twitter](https://twitter.com/imslayter)
-
 🏠 [Hiven](https://hiven.house/oli)
-
 📧 [Contact](mailto:me@slayter.dev)
