@@ -3,8 +3,6 @@ My name is Oli. I'm a Full Stack Developer residing in London and I primarily wo
 
 I'm a co-founder and CEO of [Giggl](https://giggl.app), and currently a developer for [AMNotify](https://amnotify.com) and [HyperRaffleBot](https://hyperrafflebot.io). 
 
-I've been a developer since I was 11 years old, primarily assisting with backend API's and databases. I now have my own company, and consult others.
-
 ## Me
 
 ⚡ [Portfolio](https://slayter.dev)
