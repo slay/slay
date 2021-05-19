@@ -9,6 +9,4 @@ I'm also a co-founder and CEO of [Giggl](https://giggl.app) - a new way to brows
 
 🐦 [Twitter](https://twitter.com/imslayter)
 
-🏠 [Hiven](https://hiven.house/oli)
-
 📧 [Contact](mailto:me@slayter.dev)
